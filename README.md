@@ -28,8 +28,7 @@ bun install
 bun run dev
 ```
 
-Open http://localhost:8080/games/speed
-
+Open http://localhost:8080/
 ## Build
 
 ```bash
