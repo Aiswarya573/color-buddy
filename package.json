@@ -7,7 +7,11 @@
     "dev": "vite dev",
     "build": "vite build",
     "build:dev": "vite build --mode development",
+<<<<<<< HEAD
     "preview": "vite preview",
+=======
+    "start": "vite preview --host 0.0.0.0 --port $PORT",
+>>>>>>> fab2dea4c85526ce899ea5fb218a983bae62e50f
     "lint": "eslint .",
     "format": "prettier --write ."
   },
