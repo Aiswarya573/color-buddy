@@ -28,8 +28,12 @@ bun install
 bun run dev
 ```
 
+<<<<<<< HEAD
 Open http://localhost:3000
 
+=======
+Open http://localhost:8080/
+>>>>>>> 526aff228e853cc605c7d6f84063270400ac5870
 ## Build
 
 ```bash
