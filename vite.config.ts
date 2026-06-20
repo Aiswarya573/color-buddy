@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // @lovable.dev/vite-tanstack-config already includes the following — do NOT add them manually
 // or the app will break with duplicate plugins:
 //   - tanstackStart, viteReact, tailwindcss, tsConfigPaths, cloudflare (build-only),
@@ -13,17 +12,9 @@ export default defineConfig({
   tanstackStart: {
     server: { entry: "server" },
   },
-});
-=======
-import { defineConfig } from "vite";
-
-export default defineConfig({
-  base: "./",
-  server: {
-    host: true
+  vite: {
+    preview: {
+      allowedHosts: ["color-buddy.onrender.com"],
+    },
   },
-  preview: {
-    host: true
-  }
 });
->>>>>>> fab2dea4c85526ce899ea5fb218a983bae62e50f

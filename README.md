@@ -27,18 +27,13 @@ A bright, kid-friendly mobile web app to learn colors with voice, camera detecti
 bun install
 bun run dev
 ```
-
-<<<<<<< HEAD
 Open http://localhost:3000
 
-=======
-<<<<<<< HEAD
+
 Open http://localhost:3000
 
-=======
 Open http://localhost:8080/
->>>>>>> 526aff228e853cc605c7d6f84063270400ac5870
->>>>>>> fab2dea4c85526ce899ea5fb218a983bae62e50f
+
 ## Build
 
 ```bash
